@@ -101,8 +101,7 @@ UniBuddy Website
 contact.html
 
   images
-   css
-     style.css
+   
 
 ---
 
